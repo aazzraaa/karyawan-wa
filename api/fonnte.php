@@ -9,8 +9,8 @@
 |--------------------------------------------------------------------------
 */
 
-const FONNTE_TOKEN = '6JVEShvnZTYx8p1xhyoj';
-const FONNTE_ADMIN = '085726575709';
+const FONNTE_TOKEN = '6JVEShvnZTYx8p';
+const FONNTE_ADMIN = '0857265';
 
 
 /*
